@@ -2,6 +2,7 @@
 
 ## Sources:
 Dataset: General aviation trajectory dataset (https://theairlab.org/trajair/)
+
 Model framework: DiffTraj (https://github.com/Yasoz/DiffTraj)
 
 In this study, I adapted the probabilistic conditional diffusion model, DriffTraj framework from Zhu et. al. (2023) with weather information to generate high-quality synthetic trajectory data under different underlying distribution in non-IID and OOD scenario.
