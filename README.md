@@ -9,7 +9,7 @@ Model framework: DiffTraj (https://github.com/Yasoz/DiffTraj)
 
 ## Generated result
 
-![alt text](https://github.com/bonjer-26/Synthetic-spatial-data-generation/blob/traj_val.png?raw=true)
+![alt text](https://github.com/bonjer-26/Synthetic-spatial-data-generation/blob/main/traj_val.png?raw=true)
 
 
 ## References:
