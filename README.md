@@ -1,5 +1,5 @@
 # Synthetic-spatial-data-generation
-In this study, I adapted the probabilistic conditional diffusion model, DriffTraj framework from Zhu et. al. (2023) with weather information to generate high-quality synthetic trajectory data under different underlying distribution in non-IID and OOD scenario.
+This repository contains the materials and documentation for the implementation of probabilistic conditional diffusion model, DriffTraj framework from Zhu et. al. (2023) with weather information to generate high-quality synthetic trajectory data under different underlying distribution in non-IID and OOD scenario.
 
 ### Dependencies
 Before running the script, ensure that you have following the prerequisites installed:
