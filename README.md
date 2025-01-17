@@ -9,7 +9,9 @@ Model framework: DiffTraj (https://github.com/Yasoz/DiffTraj)
 
 ## Generated result
 
-![alt text](https://github.com/bonjer-26/Synthetic-spatial-data-generation/blob/main/traj_val.png?raw=true)
+![Validation set generation result](https://github.com/bonjer-26/Synthetic-spatial-data-generation/blob/main/traj_val.png?raw=true)
+
+![Test set generation result](https://github.com/bonjer-26/Synthetic-spatial-data-generation/blob/main/traj_test.png?raw=true)
 
 
 ## References:
