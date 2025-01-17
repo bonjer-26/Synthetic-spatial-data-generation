@@ -9,6 +9,8 @@ Model framework: DiffTraj (https://github.com/Yasoz/DiffTraj)
 
 ## Generated result
 
+![alt text](https://github.com/bonjer-26/Synthetic-spatial-data-generation/blob/traj_val.png?raw=true)
+
 
 ## References:
 Zhu, Y., Ye, Y., Zhang, S., Zhao, X., James J.Q., (2023). DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model. Proceedings of the Advances in Neural Information Processing Systems, 36, 65168-65188. url: https://proceedings.neurips.cc/paper_files/paper/2023/file/cd9b4a28fb9eebe0430c3312a4898a41-Paper-Conference.pdf
